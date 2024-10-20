@@ -4,12 +4,12 @@
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-PLAYGROUND-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-PLAYGROUND">
-   <img src="https://img.shields.io/badge/Version-2.1.2-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.2">
+   <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
    <img src="https://img.shields.io/badge/Lang-HTML%20|%20CSS%20|%20JavaScript-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-HTML|CSS|JavaScript">
    <img src="https://img.shields.io/badge/Framework-Bootstrap%205.3.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap 5.3.3">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-12.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.10.2024">
+   <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
    <a href="https://ko-fi.com/thenocturnaldevgypsy">
       <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
    </a>
@@ -27,7 +27,7 @@
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=2471AE)
 
-- Via GitHub Pages : https://thenocturnaldevgypsy.github.io/gypsyshards-bootstrap-template-linkinbio/
+- Via Vercel : https://gypsyshards.vercel.app/
 
 ## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-24292e?logo=tools&logoColor=white&labelColor=00416a)
 
@@ -95,7 +95,7 @@ Filename format for each themes:
 | index.html | 001 | Main Page/Home Page of the Project, allows users to browse the available templates. |
 
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
-See the [open issues](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio/issues) for a list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
 
@@ -103,7 +103,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.1.2 | 12.10.2024 | [ecfbdf8](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/8/commits/ecfbdf8fe35b464ff9c53e7a04cc7ad02b47f100) for [PR 8](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/8) | feat | Updated the documentation format using https://github.com/thenocturnaldevgypsy/github-md-template |
+| 2.1.3 | 20.10.2024 | [97a68c9](https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio/commit/97a68c96dfa8c8726743f2d2e60fc7dded6b233e) for [PR 2](https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio/pull/2), []() for [PR ]() | feat | - Old GitHub account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) got flagged for no reason given, recreating the repo to the new account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io) [[PR 2](https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio/pull/2)]<br>- Updated the repo's documentation's URL for some links, but kept the ones from the CHANGELOG<br>-Redeployed at Vercel, Live URL: https://gypsyshards.vercel.app/<br>- For more info for the whole migration, see GitHub Project: https://github.com/users/thenocturnaldevgypsy-io/projects/1/views/1 |
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-24292e?logo=code-of-conduct&logoColor=white&labelColor=00416a)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
@@ -114,10 +114,10 @@ If you'd like to create your own AMA repository:
 - Click `Fork` at the top of this page. -->
 
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-24292e?logo=file-badge&logoColor=white&labelColor=00416a)
-Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
+Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy-io).
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo. 
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
-I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
+I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/gypsyshards-bootstrap-template-linkinbio/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
