@@ -7,6 +7,7 @@
    <img src="https://img.shields.io/badge/Version-2.1.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.3">
    <img src="https://img.shields.io/badge/Lang-HTML%20|%20CSS%20|%20JavaScript-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-HTML|CSS|JavaScript">
    <img src="https://img.shields.io/badge/Framework-Bootstrap%205.3.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap 5.3.3">
+   <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
    <img src="https://img.shields.io/badge/Last%20Update-20.10.2024-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 20.10.2024">
@@ -15,18 +16,17 @@
    </a>
 </p>
 
-
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 
 #### Under Theme 002 | Back to [Main](README.md)
 
 <img src="/md_assets/theme-002.jpg" alt="Theme 002" width="500">
 
-## ![SUBSECTION Description/Features](https://custom-icon-badges.demolab.com/badge/-Description/Features-24292e?logo=check&logoColor=white&labelColor=2471AE)
+## ![SUBSECTION Description/Features](https://custom-icon-badges.demolab.com/badge/-Description/Features-24292e?logo=check&logoColor=white&labelColor=00416a)
 
 `Theme 002` - Body Background, Half-Image/Half-Solid Color Container Background, Circle Profile Picture, H1 Header, P Description and Footer, 4 Quick Social Media Links, 4 Link Buttons (1 Shakes every 6 seconds) with H2 Title, SPAN Description and Border Lines on Mouse Hover.
 
-## ![SUBSECTION Variants](https://custom-icon-badges.demolab.com/badge/-Variants-24292e?logo=north-star&logoColor=white&labelColor=2471AE)
+## ![SUBSECTION Variants](https://custom-icon-badges.demolab.com/badge/-Variants-24292e?logo=north-star&logoColor=white&labelColor=00416a)
 
 | Variant | Date | Commit | Files | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
