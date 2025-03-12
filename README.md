@@ -107,7 +107,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.1.5 | 12.03.2025 | -- | chore, docs. refactor | ------------- |
+| 2.1.5 | 12.03.2025 | [I#7](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues/7), [PR#8](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/8) | chore, docs. refactor | - Updated the labels and milestones in this repo, reassigned labels to previous and current issues and PRs<br>- Updated MD files dead/404 URLs |
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
