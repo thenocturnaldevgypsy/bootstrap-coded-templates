@@ -4,16 +4,15 @@
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
    <img src="https://img.shields.io/badge/Purpose-PLAYGROUND-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-PLAYGROUND">
-   <img src="https://img.shields.io/badge/Version-2.1.4-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.4">
+   <img src="https://img.shields.io/badge/Version-2.1.5-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.5">
    <img src="https://img.shields.io/badge/Lang-HTML%20|%20CSS%20|%20JavaScript-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-HTML|CSS|JavaScript">
    <img src="https://img.shields.io/badge/Framework-Bootstrap%205.3.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap 5.3.3">
    <img src="https://img.shields.io/badge/Database-None-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-None">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-27.02.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 27.02.2025">
-   <a href="https://ko-fi.com/thenocturnaldevgypsy">
-      <img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi">
-   </a>
+   <img src="https://img.shields.io/badge/Last%20Update-12.03.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.03.2025">
+  <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
+  <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 </p>
 
 ## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
@@ -106,10 +105,9 @@ See the [open issues](https://github.com/thenocturnaldevgypsy/gypsyshards-bootst
 
 Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the complete information.
 
-| Version | Date | Commit | Type | Description |
+| Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.1.4 | 27.02.2025 | --- | refactor | Transferred repo back to my main GitHub account<br>- Updated FUNDING.yml |
-| 2.1.3 | 20.10.2024 | [97a68c9](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/commit/97a68c96dfa8c8726743f2d2e60fc7dded6b233e) for [PR 2](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/2), [1db40be](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/commit/1db40bec6d53dae2e061b34cb50cfbf592610099) for [PR 4](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/4) | feat | - Old GitHub account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) got flagged for no reason given, recreating the repo to the new account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io) [[PR 2](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/2)]<br>- Updated the repo's documentation's URL for some links, but kept the ones from the CHANGELOG<br>-Redeployed at Vercel, Live URL: https://gypsyshards.vercel.app/ [[PR 4](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/4)]<br>- For more info for the whole migration, see GitHub Project: https://github.com/users/thenocturnaldevgypsy/projects/11/views/1 |
+| 2.1.5 | 12.03.2025 | -- | chore, docs. refactor | ------------- |
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
@@ -117,7 +115,7 @@ Want to contribute? Great! Contributions welcome, but please read the [contribut
 ## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 
 If you'd like to use this repo for your own project, I would like to ask a favor from you:
-- Please do 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**? :smiling_face_with_tear:).
+- Please do 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi** or sponsoring me here at **GitHub**? :smiling_face_with_tear:).
 - Click `Fork` at the top of this page.
 - Please be mindful of the [LICENSE](LICENSE.md) applicable
 
