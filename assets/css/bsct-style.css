@@ -1,0 +1,24 @@
+/** ============================================================================================================================
+* Version and Initial Release: Version 1.0.0 with Bootstrap v5.3.3
+* Author: github.com/TheNocturnalDevGypsy-io [ Abegail Baustista Torrendon ]
+* GitHub Source: https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates
+* License: MIT License - https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/blob/master/LICENSE
+============================================================================================================================== **/
+
+/* Fonts */
+:root {
+  --default-font: "Baloo 2", sans-serif; letter-spacing: 1px;
+  --heading-font: "Baloo 2", sans-serif; letter-spacing: 1px;
+  --nav-font:"Baloo 2", sans-serif; letter-spacing: 1px;
+}
+
+/* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
+:root { 
+  --background-color: #0c1018; /* Background color for the entire website, including individual sections */
+  --default-color: #fafafa; /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #ffffff; /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #70c3ff; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --surface-color: #202932; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #1D2C3D; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+}
+
