@@ -15,5 +15,3 @@ Desktop.ini
 # Ignore backup folder and files (if applicable)
 backup/
 backup/*
-backup-latest/
-backup-latest/*
