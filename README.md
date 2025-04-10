@@ -24,9 +24,9 @@
 ## ![SECTION Available Bootstrap coded Templates](https://custom-icon-badges.demolab.com/badge/-Available%20Bootstraps%20coded%20Templates-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 | Template | Pages | # of Styles | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| Personal Site - Nightfall | Multi-page | 1 | A multi-page personal website. Has the basic pages needed: Home, About, Education, Experience, Portfolio, Services, Contact Details (no contact form yet) |
-| Link in Bio - Simple | One Page | 6 | A simple template/theme for Link in Bio. Comes with a profile image, cover/banner, social medial icons, link buttons with descriptions, and different backgrounds |
-| Link in Bio - Lite | One Page | 6 | A lite template/theme for Link in Bio. Just a profile image, social medial icons, link buttons, and different backgrounds |
+| [Personal Site - Nightfall](template-personalsite-nightfall.md) | Multi-page | 1 | A multi-page personal website. Has the basic pages needed: Home, About, Education, Experience, Portfolio, Services, Contact Details (no contact form yet) |
+| [Link in Bio - Simple](template-linkinbio-simple.md) | One Page | 6 | A simple template/theme for Link in Bio. Comes with a profile image, cover/banner, social medial icons, link buttons with descriptions, and different backgrounds |
+| [Link in Bio - Lite](template-linkinbio-lite.md) | One Page | 6 | A lite template/theme for Link in Bio. Just a profile image, social medial icons, link buttons, and different backgrounds |
 
 
 ## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-2471AE?logo=tools&logoColor=white&labelColor=2471AE)
@@ -49,7 +49,7 @@ OS: Windows_NT x64 10.0.19045
 - [docker-compose.yml](docker-compose.yml)
 - [Nginx Config](nginx\default.conf)
 
-**Frameworks, Libraries and Tools**
+**Frameworks, Libraries and Tools (most in all templates)**
 - Bootstrap 5.3.3 https://github.com/twbs/bootstrap
 - Bootstrap Icons https://github.com/twbs/icons
 - FontAwesome 6 Icons (Free) https://github.com/FortAwesome/Font-Awesome
