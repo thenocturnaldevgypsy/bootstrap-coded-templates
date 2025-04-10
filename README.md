@@ -1,4 +1,3 @@
-<!-- <p align="center"><img src="/md_assets/octocat.gif" alt="Logo" width="130" height="130"></p> -->
 <h3 align="center">Bootstrap Coded Templates by TheNocturnalDevGypsy</h3>
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
@@ -8,20 +7,14 @@
    <img src="https://img.shields.io/badge/Framework-Bootstrap%205.3.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap 5.3.3">
    <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
    <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-10.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 10.04.2025">
+   <img src="https://img.shields.io/badge/Last%20Update-12.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.04.2025">
   <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
   <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 </p>
 
 ## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
 
-`bootstrap-coded-templates` is one of my active personal project for refreshing my skills with the latest Bootstrap's release (5.3.3), focusing with creating several Responsive (`mobile`, `tablet` and `desktop`) Themes with different subjects/topics.
-
-<!-- ![SUBSECTION Features](https://custom-icon-badges.demolab.com/badge/-Features-24292e?logo=star&logoColor=white&labelColor=2471AE)
-
-- Feature 1: A detailed explanation of the feature.
-- Feature 2: What this feature brings to the project.
-- Feature 3: How this enhances the functionality. -->
+`bootstrap-coded-templates` is one of my ongoing personal projects aimed at refreshing and leveling up my skills with the latest Bootstrap release. The focus is on designing and building a collection of responsive themes, optimized for `mobile`, `tablet`, and `desktop`, across various subjects and use cases.
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
 
@@ -61,7 +54,6 @@ OS: Windows_NT x64 10.0.19045
 - Waypoint.js (No Framework) https://github.com/imakewebthings/waypoints
 - Nginx 1.27.4 (Docker Image Tag: `nginx:latest`)
 
-
 ## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-2471AE?logo=file-submodule&logoColor=white&labelColor=2471AE)
 
 At the moment, the repository contains the following files and directory structure, where:
@@ -72,16 +64,16 @@ project-root/
 ├─ nginx/                                     # Nginx configuration directory
 │    └─ default.conf                          # Nginx configurations (DEV Env)
 ├─ source code/                               # App's source code
-│    ├─ assets/                               # assets folder for images, css, js and libraries
-│    │    ├─ css/                             # main directory for storing css file
-│    │    ├─ images/                          # main directory for storing image files
-│    │    │   ├─ favicons/                    # favicons for the website
-│    │    │   └─ portfolio/                   # portfolio mockup images
-│    │    ├─ js/                              # main directory for storing js files
-│    │    └─ library/                         # main directory for the framework and libraries used
-│    ├─ template-linkinbio-lite               # bootstrap theme, also contain their own assets folder
-│    ├─ template-linkinbio-simple             # bootstrap theme, also contain their own assets folder
-│    ├─ template-personalsite-detailed        # bootstrap theme, also contain their own assets folder
+│    ├─ assets/                               # assets folder for images, css, js and libraries for index.html
+│    │    ├─ css/                             # main directory for storing css file for index.html
+│    │    ├─ images/                          # main directory for storing image files for index.html
+│    │    │   ├─ favicons/                    # favicons for the website for index.html
+│    │    │   └─ portfolio/                   # portfolio mockup images for index.html
+│    │    ├─ js/                              # main directory for storing js files for index.html
+│    │    └─ library/                         # main directory for the framework and libraries used for index.html
+│    ├─ template-linkinbio-lite/              # bootstrap theme, also contain their own assets folder
+│    ├─ template-linkinbio-simple/            # bootstrap theme, also contain their own assets folder
+│    ├─ template-personalsite-detailed/       # bootstrap theme, also contain their own assets folder
 │    └─ index.html                            # inventory/catalog page of the bootstrap templates available
 ├─ .env                                       # .env for docker-compose.yml (DEV Env)
 ├─ .gitignore                                 # files ignored by Git
@@ -92,15 +84,20 @@ project-root/
 ├─ LICENSE                                    # license file
 └─ README.md                                  # project documentation
 ```
-Filename format for each themes:
-| Details | Filename Format |
-| ------------- | ------------- |
-| theme page filename format | `theme-xxx(theme_number)-yyy(variant)-zzz(page_number).html` |
-| theme page filename format | `theme-xxx(theme_number).md` |
-| theme "base" page's screenshot filename format | `md_assets/theme-xxx(theme_number).jpg` |
-| theme page's screenshot filename format | `assets/img/src-xxx(theme_number)-yyy(variant).jpg` |
-| main CSS for the theme page filename format | `assets/css/style-xxx(theme_number)-yyy(variant).css` |
-| main JS for the theme page filename format | `assets/js/core-xxx(theme_number)-yyy(variant).css` |
+Templates are stored separately in their dedicated directories (e.g. `template-linkinbio-lite` , `template-personalsite-detailed`) and it has the following files and directory arrangement.
+```
+e.g.
+├─ source code/ 
+│    └─ template-linkinbio-lite/
+│          ├─ assets/                 # assets folder for images, css, js and libraries
+│          │    ├─ css/               # main directory for storing css file
+│          │    ├─ images/            # main directory for storing image files
+│          │    │   └─ favicons/      # favicons for the website
+│          │    ├─ js/                # main directory for storing js files
+│          │    └─ library/           # main directory for the framework and libraries used
+│          └─ index.html              # homepage / index of the template/theme
+```
+
 
 ## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 | Theme | # of Variants | Description |
