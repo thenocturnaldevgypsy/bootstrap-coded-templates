@@ -18,7 +18,16 @@
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
 
-- Via xxx : https://
+- Via GitHub Pages: https://
+- Via Vercel : https://
+
+## ![SECTION Available Bootstrap coded Templates](https://custom-icon-badges.demolab.com/badge/-Available%20Bootstraps%20coded%20Templates-2471AE?logo=book&logoColor=white&labelColor=2471AE)
+| Template | Pages | # of Styles | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| Personal Site - Nightfall | Multi-page | 1 | A multi-page personal website. Has the basic pages needed: Home, About, Education, Experience, Portfolio, Services, Contact Details (no contact form yet) |
+| Link in Bio - Simple | One Page | 6 | A simple template/theme for Link in Bio. Comes with a profile image, cover/banner, social medial icons, link buttons with descriptions, and different backgrounds |
+| Link in Bio - Lite | One Page | 6 | A lite template/theme for Link in Bio. Just a profile image, social medial icons, link buttons, and different backgrounds |
+
 
 ## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-2471AE?logo=tools&logoColor=white&labelColor=2471AE)
 
@@ -36,8 +45,8 @@ V8: 13.2.152.41-electron.0
 OS: Windows_NT x64 10.0.19045
 ```
 **Docker and Nginx Details**
-- [docker-compose.yml](docker-compose.yml)
 - [Docker .env](.env)
+- [docker-compose.yml](docker-compose.yml)
 - [Nginx Config](nginx\default.conf)
 
 **Frameworks, Libraries and Tools**
@@ -73,7 +82,7 @@ project-root/
 │    │    └─ library/                         # main directory for the framework and libraries used for index.html
 │    ├─ template-linkinbio-lite/              # bootstrap theme, also contain their own assets folder
 │    ├─ template-linkinbio-simple/            # bootstrap theme, also contain their own assets folder
-│    ├─ template-personalsite-detailed/       # bootstrap theme, also contain their own assets folder
+│    ├─ template-personalsite-nightfall/       # bootstrap theme, also contain their own assets folder
 │    └─ index.html                            # inventory/catalog page of the bootstrap templates available
 ├─ .env                                       # .env for docker-compose.yml (DEV Env)
 ├─ .gitignore                                 # files ignored by Git
@@ -84,30 +93,22 @@ project-root/
 ├─ LICENSE                                    # license file
 └─ README.md                                  # project documentation
 ```
-Templates are stored separately in their dedicated directories (e.g. `template-linkinbio-lite` , `template-personalsite-detailed`) and it has the following files and directory arrangement.
+Templates are stored separately in their dedicated directories (e.g. `template-linkinbio-lite` , `template-personalsite-detailed`) and it has the following files and directory arrangement. For example:
 ```
-e.g.
 ├─ source code/ 
 │    └─ template-linkinbio-lite/
-│          ├─ assets/                 # assets folder for images, css, js and libraries
-│          │    ├─ css/               # main directory for storing css file
-│          │    ├─ images/            # main directory for storing image files
-│          │    │   └─ favicons/      # favicons for the website
-│          │    ├─ js/                # main directory for storing js files
-│          │    └─ library/           # main directory for the framework and libraries used
-│          └─ index.html              # homepage / index of the template/theme
+│          ├─ assets/                        # assets folder for images, css, js and libraries
+│          │    ├─ css/                      # main directory for storing css file
+│          │    ├─ images/                   # main directory for storing image files
+│          │    │   └─ favicons/             # favicons for the website
+│          │    ├─ js/                       # main directory for storing js files
+│          │    └─ library/                  # main directory for the framework and libraries used
+│          ├─ template-linkinbio-lite.zip    # zip file of the template
+│          └─ index.html                     # homepage / index of the template/theme
 ```
 
-
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
-| Theme | # of Variants | Description |
-| ------------- | ------------- | ------------- |
-| [002](theme-002.md) | 005 | Body Background, Half-Image/Half-Solid Color Container Background, Circle Profile Picture, H1 Header, P Description and Footer, 4 Quick Social Media Links,  4 Link Buttons (1 Shakes every 6 seconds) with H2 Title, SPAN Description and Border Lines on Mouse Hover. |
-| [001](theme-001.md) | 006 | Body Background, Container Background, Circle Profile Picture, H1 Header, P Description and Footer, 4 Quick Social Media Links, 4 Link Buttons (1 Shakes every 6 seconds). |
-| index.html | 001 | Main Page/Home Page of the Project, allows users to browse the available templates. |
-
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
-See the [open issues](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues) and [backlog](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/milestones) for the list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues) and [backlog](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/milestones) for the list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 
@@ -115,15 +116,17 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.1.5 | 12.03.2025 | [I#7](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues/7), [PR#8](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/pull/8) | chore, docs. refactor | - Updated the labels and milestones in this repo, reassigned labels to previous and current issues and PRs<br>- Updated MD files dead/404 URLs |
+| 3.0.0 | 12.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates I've made into this repo, changed the directory setup for easy management<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
-Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
+Contributions are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project.
 
 ## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 
 If you'd like to use this repo for your own project, I would like to ask a favor from you:
-- Please do 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi** or sponsoring me here at **GitHub**? :smiling_face_with_tear:).
+- Please do `Star` and `Watch` this repo? Or, maybe ❤️ by:
+  
+  <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a> <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 - Click `Fork` at the top of this page.
 - Please be mindful of the [LICENSE](LICENSE.md) applicable
 
@@ -135,3 +138,11 @@ Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
 I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues/new) on this repo or you can also contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
+
+We would love to hear your thoughts on this project and get your suggestions and feedbacks (especially if you used it!). You can contact the maintainers in this project's [discussions](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions) section.
+- 📣 [Announcements & Updates](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/announcements-updates) : Announcements, updates and roadmaps from maintainers.
+- 💡 [Ideas + Community Vote!](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/ideas-community-vote) : Share ideas for new features and let the community vote for it!
+- 🎉 [IN ACTION! Show and Tell!](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/in-action-show-and-tell) : If you have a particularly cool way of using this project/repo, show it off by sharing it here!
+- 💬 [Q & A](https://github.com/thenocturnaldevgypsy/REPONAME/bootstrap-coded-templates/categories/q-a) :  Ask the maintainers about... anything you want. Ask questions. Receive answers.
+
+Also, feel free to contact me (author) by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
