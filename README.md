@@ -134,7 +134,7 @@ If you'd like to use this repo for your own project, I would like to ask a favor
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
 Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
 - You can freely modify and reuse.
-- The original [LICENSE](LICENSE.md) must be included with copies of this software.
+- The original [LICENSE](LICENSE.md) must be included with copies of this software/template.
 - Please link back (if you can fork, the better) to this repo. 
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
