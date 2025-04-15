@@ -57,6 +57,7 @@ project-root/
 
 Image and Video Sources Credits
 - [Sunglasses, Woman, Pool image. Free for use - Asset by danielsampaioneto](https://pixabay.com/photos/sunglasses-woman-pool-girl-lying-2705642/) : `assets/images/profile-image.jpg`
+- [Beach, Coast, Sea image. Free for use - Asset by StockSnap](https://pixabay.com/photos/beach-coast-sea-sand-wave-ocean-2562563/) : `assets/images/background-image.jpg` 
 - [Ocean, wave, sand free stock video. Free for use & download - Asset by Marsel_beijing](https://pixabay.com/videos/ocean-wave-sand-sea-lake-water-133508/) : `assets/videos/ocean-wave.mp4`
 
 ## ![SUBSECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)

@@ -1,7 +1,10 @@
-/* 
-* Main JS File for GypsyShards [001.003] of Free Bootstrap 5.3.3 Themes of Link in Bio Templates
-* Author: TheNocturnalDevGypsy [ Abegail Baustista Torrendon ]
-*/ 
+/**
+* Version: Version 2.2.0 with Bootstrap v5.3.3
+* Author: github.com/TheNocturnalDevGypsy [ Abegail Baustista Torrendon ]
+* Template Name: Link in Bio - Lite : Style 3
+* GitHub Source: https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates
+* License: MIT License - https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/blob/master/LICENSE
+*/
 
 // For class="linkinbio-link-button" id="shake-button" Shaking Button
 document.addEventListener('DOMContentLoaded', function() {
