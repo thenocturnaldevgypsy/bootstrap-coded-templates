@@ -1,8 +1,9 @@
 /** ============================================================================================================================
-* Version and Updated: Version 1.0.0, Nov 5 2024 with Bootstrap v5.3.3
-* Author: github.com/TheNocturnalDevGypsy-io [ Abegail Baustista Torrendon ]
-* GitHub Source: https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io.github.io
-* License: MIT License - https://github.com/thenocturnaldevgypsy-io/thenocturnaldevgypsy-io.github.io/blob/master/LICENSE
+* Version and Updated: Version 2.1.0 with Bootstrap v5.3.3
+* Author: github.com/TheNocturnalDevGypsy [ Abegail Baustista Torrendon ]
+* Template Name: Personal Site - Nightfall
+* GitHub Source: https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/tree/master/source%20code/template-personalsite-nightfall
+* License: MIT License - https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/blob/master/LICENSE
 ============================================================================================================================== **/
 
 (function() {
