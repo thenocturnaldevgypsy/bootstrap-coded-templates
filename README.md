@@ -1,15 +1,7 @@
 <h3 align="center">Bootstrap Coded Templates by TheNocturnalDevGypsy</h3>
 <p align="center"><strong>You like the Repo? Don't forget to 🌟, 👁️, 🔱 and ❤️!</strong></p>
 <p align="center">
-   <img src="https://img.shields.io/badge/Purpose-PLAYGROUND%20+%20EXPLORING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-PLAYGROUND + EXPLORING">
-   <img src="https://img.shields.io/badge/Version-3.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 3.0.0">
-   <img src="https://img.shields.io/badge/Lang-HTML%20|%20CSS%20|%20JavaScript-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-HTML|CSS|JavaScript">
-   <img src="https://img.shields.io/badge/Framework-Bootstrap%205.3.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap 5.3.3">
-   <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN">
-   <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT">
-   <img src="https://img.shields.io/badge/Last%20Update-12.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 12.04.2025">
-  <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a>
-  <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
+  <img src="https://img.shields.io/badge/Purpose-PLAYGROUND%20+%20EXPLORING-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Purpose-PLAYGROUND + EXPLORING"> <img src="https://img.shields.io/badge/Version-3.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 3.0.0"> <img src="https://img.shields.io/badge/Lang-HTML%20|%20CSS%20|%20JavaScript-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-HTML|CSS|JavaScript"> <img src="https://img.shields.io/badge/Framework-Bootstrap%205.3.3-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap 5.3.3"> <img src="https://img.shields.io/badge/Contribute-OPEN-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Contribute-OPEN"> <img src="https://img.shields.io/badge/License-MIT-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="License MIT"> <img src="https://img.shields.io/badge/Last%20Update-17.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 17.04.2025"> <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a> <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 </p>
 
 ## ![SECTION About this Repository](https://custom-icon-badges.demolab.com/badge/-About%20this%20Repository-2471AE?logo=repo&logoColor=white&labelColor=2471AE)
@@ -17,9 +9,12 @@
 `bootstrap-coded-templates` is one of my ongoing personal projects aimed at refreshing and leveling up my skills with the latest Bootstrap release. The focus is on designing and building a collection of responsive themes, optimized for `mobile`, `tablet`, and `desktop`, across various subjects and use cases.
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
-
 - Via GitHub Pages: https://
 - Via Vercel : https://
+
+![SUBSECTION List of Maintainers](https://custom-icon-badges.demolab.com/badge/-List%20of%20Maintainers-24292e?logo=flame&logoColor=white&labelColor=00416a)
+
+<a href="https://github.com/thenocturnaldevgypsy"><img src="md_assets/maintainers/thenocturnaldevgypsy.png" alt="@TheNocturnalDevGypsy" height="30"></a>
 
 ## ![SECTION Available Bootstrap coded Templates](https://custom-icon-badges.demolab.com/badge/-Available%20Bootstraps%20coded%20Templates-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 | Template | Pages | # of Styles | Description |
@@ -116,10 +111,16 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3.0.0 | 12.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates I've made into this repo, changed the directory setup for easy management<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
+| 3.0.0 | 12.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates I've made into this repo, changed the directory setup for easy management<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
 
-## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
-Contributions are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project.
+## ![SECTION Contribute and Support](https://custom-icon-badges.demolab.com/badge/-Contribute%20and%20Support-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
+Contributions and supporters are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project.
+
+![SUBSECTION List of Contributors and Supporters](https://custom-icon-badges.demolab.com/badge/-List%20of%20Contributors%20and%20Supporters-24292e?logo=flame&logoColor=white&labelColor=00416a)
+
+_None yet, be the first!_
+
+<!-- <a href="https://github.com/thenocturnaldevgypsy"><img src="md_assets/contributors/thenocturnaldevgypsy.png" alt="@TheNocturnalDevGypsy" height="30"></a> -->
 
 ## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 
@@ -140,6 +141,7 @@ Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](
 I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio/issues/new) on this repo or you can also contact me by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.
 
 We would love to hear your thoughts on this project and get your suggestions and feedbacks (especially if you used it!). You can contact the maintainers in this project's [discussions](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions) section.
+
 - 📣 [Announcements & Updates](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/announcements-updates) : Announcements, updates and roadmaps from maintainers.
 - 💡 [Ideas + Community Vote!](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/ideas-community-vote) : Share ideas for new features and let the community vote for it!
 - 🎉 [IN ACTION! Show and Tell!](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/in-action-show-and-tell) : If you have a particularly cool way of using this project/repo, show it off by sharing it here!
