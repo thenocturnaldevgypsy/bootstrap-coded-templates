@@ -6,10 +6,12 @@
 
 ## ![SUBSECTION Description/Features](https://custom-icon-badges.demolab.com/badge/-Description/Features-24292e?logo=check&logoColor=white&labelColor=00416a)
 
+<img src="https://img.shields.io/badge/Template%20Version-2.2.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.2.0"> <img src="https://img.shields.io/badge/Template%20Last%20Update-17.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 17.04.2025">
+
 `Link in Bio - Lite` is a simple Link in Bio template made with Bootstrap and distributed under the MIT License by by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy), this means:
 
 - You can freely modify and reuse.
-- The original [LICENSE](LICENSE.md) must be included with copies of this software.
+- The original [LICENSE](LICENSE.md) must be included with copies of this template.
 - Please link back (if you can fork, the better) to this repo. 
 
 This template has the following features:
@@ -27,7 +29,8 @@ This template has the following features:
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
 
 - Via GitHub Pages: https://
-- Via Vercel : https://
+- Via Vercel : https://tndg-bsct-linkinbio-lite.vercel.app/
+- Download ZIP: [template-personalsite-nightfall.zip](/source%20code/template-linkinbio-lite/template-linkinbio-lite.zip)
 
 ## ![SUBSECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
 
@@ -49,5 +52,20 @@ project-root/
 
 - Bootstrap 5.3.3 https://github.com/twbs/bootstrap
 - Bootstrap Icons https://github.com/twbs/icons
-- FontAwesome 6 Icons (Free) https://github.com/FortAwesome/Font-Awesome
+- Lineicons 5 Basic (Free) https://github.com/LineiconsHQ/Lineicons
 - Google Font: Ubuntu https://fonts.google.com/specimen/Ubuntu
+
+Image and Video Sources Credits
+- [Sunglasses, Woman, Pool image. Free for use - Asset by danielsampaioneto](https://pixabay.com/photos/sunglasses-woman-pool-girl-lying-2705642/) : `assets/images/profile-image.jpg`
+- [Ocean, wave, sand free stock video. Free for use & download - Asset by Marsel_beijing](https://pixabay.com/videos/ocean-wave-sand-sea-lake-water-133508/) : `assets/videos/ocean-wave.mp4`
+
+## ![SUBSECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
+
+See the [open issues](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues) and [backlog](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/milestones) for the list of proposed features (and known issues).
+
+## ![SUBSECTION Template Changelog](https://custom-icon-badges.demolab.com/badge/-Template%20Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+
+Chronological list of updates and changes to the template.
+
+| Version | Date | Commit/Issue/PR | Type | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |

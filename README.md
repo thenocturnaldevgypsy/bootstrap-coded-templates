@@ -17,12 +17,11 @@
 <a href="https://github.com/thenocturnaldevgypsy"><img src="md_assets/maintainers/thenocturnaldevgypsy.png" alt="@TheNocturnalDevGypsy" height="30"></a>
 
 ## ![SECTION Available Bootstrap coded Templates](https://custom-icon-badges.demolab.com/badge/-Available%20Bootstraps%20coded%20Templates-2471AE?logo=book&logoColor=white&labelColor=2471AE)
-| Template | Pages | # of Styles | Description |
-| ------------- | ------------- | ------------- | ------------- |
-| [Personal Site - Nightfall](template-personalsite-nightfall.md) | Multi-page | 1 | A multi-page personal website. Has the basic pages needed: Home, About, Education, Experience, Portfolio, Services, Contact Details (no contact form yet) |
-| [Link in Bio - Simple](template-linkinbio-simple.md) | One Page | 6 | A simple template/theme for Link in Bio. Comes with a profile image, cover/banner, social medial icons, link buttons with descriptions, and different backgrounds |
-| [Link in Bio - Lite](template-linkinbio-lite.md) | One Page | 6 | A lite template/theme for Link in Bio. Just a profile image, social medial icons, link buttons, and different backgrounds |
-
+| Template | Pages | # of Styles | Version | Description |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Personal Site - Nightfall](template-personalsite-nightfall.md) | Multi-page | 1 | 2.1.0 | A multi-page personal website. Has the basic pages needed: Home, About, Education, Experience, Portfolio, Services, Contact Details (no contact form yet) |
+| [Link in Bio - Simple](template-linkinbio-simple.md) | One Page | 6 | 2.2.0 | A simple template/theme for Link in Bio. Comes with a profile image, cover/banner, social medial icons, link buttons with descriptions, and different backgrounds |
+| [Link in Bio - Lite](template-linkinbio-lite.md) | One Page | 6 | 2.2.0 | A lite template/theme for Link in Bio. Just a profile image, social medial icons, link buttons, and different backgrounds |
 
 ## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-2471AE?logo=tools&logoColor=white&labelColor=2471AE)
 
@@ -48,6 +47,7 @@ OS: Windows_NT x64 10.0.19045
 - Bootstrap 5.3.3 https://github.com/twbs/bootstrap
 - Bootstrap Icons https://github.com/twbs/icons
 - FontAwesome 6 Icons (Free) https://github.com/FortAwesome/Font-Awesome
+- Lineicons 5 Basic (Free) https://github.com/LineiconsHQ/Lineicons
 - Google Font: Ubuntu https://fonts.google.com/specimen/Ubuntu
 - AOS (Animate on scroll) https://github.com/michalsnik/aos
 - imagesLoaded https://github.com/desandro/imagesloaded
@@ -111,7 +111,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3.0.0 | 12.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates I've made into this repo, changed the directory setup for easy management<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
+| 3.0.0 | 12.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates (https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-personal , https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio) I've made into this repo, changed the directory setup for easy management<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
 
 ## ![SECTION Contribute and Support](https://custom-icon-badges.demolab.com/badge/-Contribute%20and%20Support-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 Contributions and supporters are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project.
