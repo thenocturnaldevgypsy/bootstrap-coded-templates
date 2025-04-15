@@ -77,7 +77,7 @@ project-root/
 │    │    └─ library/                         # main directory for the framework and libraries used for index.html
 │    ├─ template-linkinbio-lite/              # bootstrap theme, also contain their own assets folder
 │    ├─ template-linkinbio-simple/            # bootstrap theme, also contain their own assets folder
-│    ├─ template-personalsite-nightfall/       # bootstrap theme, also contain their own assets folder
+│    ├─ template-personalsite-nightfall/      # bootstrap theme, also contain their own assets folder
 │    └─ index.html                            # inventory/catalog page of the bootstrap templates available
 ├─ .env                                       # .env for docker-compose.yml (DEV Env)
 ├─ .gitignore                                 # files ignored by Git

@@ -143,9 +143,9 @@
           <div class="container">
             <div class="row d-flex justify-content-center text-center">
               <div class="col-lg-8">
-                <h1>Series of Bootstrap 5.3.3 Responsive Templates coded by TheNocturnalDevGypsy</h1>
-                <p>Ohayo, looks like you stumbled to one of my personal playground repo at GitHub, <em><a href="https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates">bootstrap-coded-templates</a></em> is one of my ongoing personal projects aimed at refreshing and leveling up my skills with the latest Bootstrap release. The focus is on designing and building a collection of responsive themes, optimized for <em>mobile</em>, <em>tablet</em>, and <em>desktop</em>, across various subjects and use cases. To know more details for this project, please check the repo's <a href="https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates">README.md</a>.</p>
-                <h2>If you find this repo helpful, please don't forget to <i class="bi bi-star"></i></i>, <i class="bi bi-eye"></i> and <i class="bi bi-diagram-3"></i> at <a href="https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates">GitHub</a>, or, maybe support me by <i class="bi bi-heart"></i> at <a href="https://github.com/sponsors/thenocturnaldevgypsy">GitHub Sponsor</a> or <i class="lni lni-heart"></i> by buying me a <i class="bi bi-cup-hot"></i> at <a href="https://ko-fi.com/thenocturnaldevgypsy/">Ko-Fi</a>.</h2>
+<!--            <h1>Portfolio Item Name</h1>
+                <h2>Portfolio Details</h2>
+                <p class="mb-0">Something about Portfolio</p> -->
               </div>
             </div>
           </div>
@@ -153,74 +153,125 @@
       </div>
       <!-- Page Title // End -->
 
-      <!-- Portfolio Section // Start -->
-      <section id="portfolio" class="portfolio section">
+      <!-- Portfolio Details Section // Start -->
+      <section id="portfolio-details" class="portfolio-details section">
         <div class="container">
+          <div class="row gy-4">
 
-          <!-- Portfolio > Items > Isotope Animation // Start -->
-          <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+            <!-- Portfolio Details > Swipper // Start -->
+            <div class="col-lg-8">
+              <div class="portfolio-details-slider swiper init-swiper">
 
-            <!-- Portfolio > Items > Isotope Animation > Filter // Start -->
-            <ul class="portfolio-filters isotope-filters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-onepage">One-Page</li>
-              <li data-filter=".filter-multipage">Multi-page</li>
-              <li data-filter=".filter-linkinbio">Link in Bio</li>
-              <li data-filter=".filter-personalsite">Personal Site</li>
-            </ul>
-            <!-- Portfolio > Items > Isotope Animation > Filter // End -->
+                <!-- Portfolio > Details > Swiper Animation > Setup // Start -->
+                <script type="application/json" class="swiper-config">
+                  {
+                    "loop": true,
+                    "speed": 600,
+                    "autoplay": {
+                      "delay": 5000
+                    },
+                    "slidesPerView": "auto",
+                    "pagination": {
+                      "el": ".swiper-pagination",
+                      "type": "bullets",
+                      "clickable": true
+                    }
+                  }
+                </script>
+                <!-- Portfolio > Details > Swiper Animation > Setup // End -->
 
-            <!-- Portfolio > Items Container Section // Start -->
-            <div class="row gy-4 isotope-container">
+                <!-- Portfolio > Details > Swiper > Preview // Start -->
+                <div class="swiper-wrapper align-items-center">
 
-              <!-- Portfolio Item // Start -->
-              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-multipage filter-personalsite">
-                <div class="portfolio-content h-100">
-                  <img src="assets/images/portfolio/personalsite-nightfall/nightfall-main.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>Multi-page</h4> <h4>Personal Site</h4>
-                    <p>Nightfall - Multi-page Personal Site</p>
-                    <a href="template-personalsite-nightfall.html" title="More Details" class="details-link"><i class="fa-solid fa-circle-info"></i></a>
+                  <!-- Portfolio > Preview Item // Start -->
+                  <div class="swiper-slide">
+                    <img src="assets/images/portfolio/personalsite-nightfall/nightfall-main.jpg" alt="">
                   </div>
-                </div>
-              </div>
-              <!-- Portfolio Item // End -->
+                  <!-- Portfolio > Preview Item // End -->
 
-              <!-- Portfolio Item // Start -->
-              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-onepage filter-linkinbio">
-                <div class="portfolio-content h-100">
-                  <img src="assets/images/portfolio/linkinbio-simple/simple-main.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>One-page</h4> <h4>Link in Bio</h4>
-                    <p>Link in Bio - Simple</p>
-                    <a href="template-linkinbio-simple.html" title="More Details" class="details-link"><i class="fa-solid fa-circle-info"></i></a>
+                  <!-- Portfolio > Preview Item // Start -->
+                  <div class="swiper-slide">
+                    <img src="assets/images/portfolio/personalsite-nightfall/nightfall-moodboard.jpg" alt="">
                   </div>
-                </div>
-              </div>
-              <!-- Portfolio Item // End -->
+                  <!-- Portfolio > Preview Item // End -->
 
-              <!-- Portfolio Item // Start -->
-              <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-onepage filter-linkinbio">
-                <div class="portfolio-content h-100">
-                  <img src="assets/images/portfolio/linkinbio-lite/lite-main.jpg" class="img-fluid" alt="">
-                  <div class="portfolio-info">
-                    <h4>One-page</h4> <h4>Link in Bio</h4>
-                    <p>Link in Bio - Lite</p>
-                    <a href="template-linkinbio-lite.html" title="More Details" class="details-link"><i class="fa-solid fa-circle-info"></i></a>
+                  <!-- Portfolio > Preview Item // Start -->
+                  <div class="swiper-slide">
+                    <img src="assets/images/portfolio/personalsite-nightfall/nightfall-website-1.jpg" alt="">
                   </div>
+                  <!-- Portfolio > Preview Item // End -->
+
+                  <!-- Portfolio > Preview Item // Start -->
+                  <div class="swiper-slide">
+                    <img src="assets/images/portfolio/personalsite-nightfall/nightfall-website-2.jpg" alt="">
+                  </div>
+                  <!-- Portfolio > Preview Item // End -->
+
+                  <!-- Portfolio > Preview Item // Start -->
+                  <div class="swiper-slide">
+                    <img src="assets/images/portfolio/personalsite-nightfall/nightfall-website-3.jpg" alt="">
+                  </div>
+                  <!-- Portfolio > Preview Item // End -->
+
                 </div>
+                <!-- Portfolio > Details > Swiper > Preview // End -->
+
+                <!-- Portfolio > Details > Swiper Animation > Pagination // Start -->
+                <div class="swiper-pagination"></div>
+                <!-- Portfolio > Details > Swiper Animation > Pagination // End -->
+
               </div>
-              <!-- Portfolio Item // End -->
+            </div>
+            <!-- Portfolio Details > Swipper // End -->
+
+            <!-- Portfolio Details > Record // Start -->
+            <div class="col-lg-4">
+
+              <!-- Portfolio Details > Record > Information // Start -->
+              <div class="portfolio-section-title">
+                <h3>Template</h3>
+                <div><span>Nightfall Multi-page Personal Site</span></div>
+              </div>
+              <!-- Portfolio Details > Record > Information > Title // End -->
+
+              <!-- Portfolio Details > Record > Information // Start -->
+              <div class="portfolio-info">
+                <h2 class="portfolio-accent">Summary</h2>
+                <ul>
+                  <li><strong>Category</strong>: Personal Site, Multi-page</li>
+                  <li><strong>Project Month &amp; Year</strong>: September 2024</li>
+                </ul>
+              </div>
+              <!-- Portfolio Details > Record > Information // End -->
+
+              <!-- Portfolio Details > Record > Description // Start -->
+              <div class="portfolio-description">
+                <h2>Goals and Concerns</h2>
+                <ul>
+                  <li>To create a versatile template for personal websites that includes essential sections: Home, About, Education, Experiences, Portfolio (with details), Services, Blog (with blog entries), and a Contact Form</li>
+                </ul>
+                <h2>Solutions</h2>
+                <ul>
+                  <li>Designed a responsive Bootstrap template specifically for personal websites, ensuring it is SEO-ready and easily customizable through CSS</li>
+                  <li>Hosted the project on GitHub to share it with a broader audience, gather feedback, and continually improve its features and usability</li>
+                  <li>Conducted stress tests on the template by implementing it for my own personal website (<a href="https://thenocturnaldevgypsy.vercel.app" target="_blank">https://thenocturnaldevgypsy.vercel.app</a>), verifying its capacity and effectiveness in real-world scenarios</li>
+                </ul>
+                <h2>URLs</h2>
+                <ul>
+                  <li><i class="fa-brands fa-github"></i> Full details: <a href="https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/blob/master/template-personalsite-nightfall.md" target="_blank">https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/blob/master/template-personalsite-nightfall.md</a></li>
+                  <li>Demo via GitHub Pages: <a href="https://" target="_blank">https://</a></li>
+                  <li>Demo via Vercel: <a href="https://nightfall-bstp.vercel.app/" target="_blank">https://nightfall-bstp.vercel.app/</a></li>
+                </ul>
+              </div>
+              <!-- Portfolio Details > Record > Description // End -->
 
             </div>
-            <!-- Portfolio > Items Container Section // End -->
+            <!-- Portfolio Details > Info // End -->
 
           </div>
-          <!-- Portfolio > Items > Isotope Animation // End -->
-
         </div>
       </section>
-      <!-- Portfolio Section // End -->
+      <!-- Portfolio Details Section // Start -->
 
     </main>
     <!-- Content // End -->
