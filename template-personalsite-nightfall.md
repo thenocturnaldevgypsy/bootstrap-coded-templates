@@ -6,6 +6,9 @@
 
 ## ![SUBSECTION Description/Features](https://custom-icon-badges.demolab.com/badge/-Description/Features-24292e?logo=check&logoColor=white&labelColor=00416a)
 
+<img src="md_assets/templates/personalsite-nightfall/nightfall-main.jpg" alt="Personal Site - Nightfall">
+<br><br>
+
 <img src="https://img.shields.io/badge/Template%20Version-2.1.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.1.0"> <img src="https://img.shields.io/badge/Template%20Last%20Update-17.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 17.04.2025">
 
 `Personal Site - Nightfall` is a multi-page Personal Site template made with Bootstrap and distributed under the MIT License by by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy), this means:
