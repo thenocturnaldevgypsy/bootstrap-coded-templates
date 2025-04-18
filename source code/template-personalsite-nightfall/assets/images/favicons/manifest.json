@@ -1,0 +1,41 @@
+{
+   "name": "Nightfall : Free Personal Website Theme built with Bootstrap 5.3.3 by TheNocturnalDevGypsy",
+   "short_name": "Nightfall by TheNocturnalDevGypsy",
+   "description": "Nightfall",
+   "start_url": "/",
+   "display": "standalone",
+   "background_color": "#000000",
+   "theme_color": "#70c3ff",
+   "icons": [
+      {
+         "src": "assets/img/favicons/apple-touch-icon.png",
+         "sizes": "180x180",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/favicon.png",
+         "sizes": "32x32",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/favicon.png",
+         "sizes": "16x16",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/favicon.ico",
+         "sizes": "48x48",
+         "type": "image/x-icon"
+      },
+      {
+         "src": "assets/img/favicons/favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/manifest-icon-512x512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ]
+} 

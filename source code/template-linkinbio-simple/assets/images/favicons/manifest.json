@@ -1,0 +1,41 @@
+{
+   "name": "Bootstrap Coded Templates by TheNocturnalDevGypsy",
+   "short_name": "TheNocturnalDevGypsy",
+   "description": "Portfolio/catalog of Bootstrap coded templates by TheNocturnalDevGypsy [ Abegail Baustista Torrendon ] hosted at GitHub and can be used freely under MIT License. Check https://thenocturnaldevgypsy.github.io for more details.",
+   "start_url": "/",
+   "display": "standalone",
+   "background_color": "#000000",
+   "theme_color": "#70c3ff",
+   "icons": [
+      {
+         "src": "assets/img/favicons/apple-touch-icon.png",
+         "sizes": "180x180",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/favicon.png",
+         "sizes": "32x32",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/favicon.png",
+         "sizes": "16x16",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/favicon.ico",
+         "sizes": "48x48",
+         "type": "image/x-icon"
+      },
+      {
+         "src": "assets/img/favicons/favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+         "src": "assets/img/favicons/manifest-icon-512x512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ]
+} 
