@@ -10,8 +10,7 @@
 `bootstrap-coded-templates` is one of my ongoing personal projects aimed at refreshing and leveling up my skills with the latest Bootstrap release. The focus is on designing and building a collection of responsive themes, optimized for `mobile`, `tablet`, and `desktop`, across various subjects and use cases.
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
-- Via GitHub Pages: https://
-- Via Vercel : https://
+- Via GitHub Pages: https://thenocturnaldevgypsy.github.io/bootstrap-coded-templates/
 
 ![SUBSECTION List of Maintainers](https://custom-icon-badges.demolab.com/badge/-List%20of%20Maintainers-24292e?logo=flame&logoColor=white&labelColor=00416a)
 
@@ -112,7 +111,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3.0.0 | 18.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates (https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-personal , https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio) I've made into this repo, changed the directory setup for easy management<br>- Added zip files for each templates for easy downloading<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
+| 3.0.0 | 18.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#14](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/14), [PR#15](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/15) [PR#]() | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates (https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-personal , https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio) I've made into this repo, changed the directory setup for easy management<br>- Added zip files for each templates for easy downloading<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
 
 ## ![SECTION Contribute and Support](https://custom-icon-badges.demolab.com/badge/-Contribute%20and%20Support-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 Contributions and supporters are welcome! Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project.
@@ -130,12 +129,12 @@ If you'd like to use this repo for your own project, I would like to ask a favor
   
   <a href="https://ko-fi.com/thenocturnaldevgypsy"><img src="https://img.shields.io/badge/Support%20me%20via%20Ko--Fi-%2300416a?logo=ko-fi&logoColor=white&color=%2300416a&textColor=white" alt="Support me via Ko-Fi"></a> <a href="https://github.com/sponsors/thenocturnaldevgypsy"><img src="https://custom-icon-badges.demolab.com/badge/Sponsor%20me%20at%20GitHub-%2300416a?logo=heart&logoColor=white&color=%2300416a&textColor=white" alt="Sponsor me at GitHub"></a>
 - Click `Fork` at the top of this page.
-- Please be mindful of the [LICENSE](LICENSE.md) applicable
+- Please be mindful of the [LICENSE](LICENSE) applicable
 
 ## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
 Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
 - You can freely modify and reuse.
-- The original [LICENSE](LICENSE.md) must be included with copies of this software/template.
+- The original [LICENSE](LICENSE) must be included with copies of this software/template.
 - Please link back (if you can fork, the better) to this repo. 
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
@@ -146,6 +145,6 @@ We would love to hear your thoughts on this project and get your suggestions and
 - 📣 [Announcements & Updates](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/announcements-updates) : Announcements, updates and roadmaps from maintainers.
 - 💡 [Ideas + Community Vote!](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/ideas-community-vote) : Share ideas for new features and let the community vote for it!
 - 🎉 [IN ACTION! Show and Tell!](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/in-action-show-and-tell) : If you have a particularly cool way of using this project/repo, show it off by sharing it here!
-- 💬 [Q & A](https://github.com/thenocturnaldevgypsy/REPONAME/bootstrap-coded-templates/categories/q-a) :  Ask the maintainers about... anything you want. Ask questions. Receive answers.
+- 💬 [Q & A](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/discussions/categories/q-a) :  Ask the maintainers about... anything you want. Ask questions. Receive answers.
 
 Also, feel free to contact me (author) by [creating a new discussion](https://github.com/thenocturnaldevgypsy/thenocturnaldevgypsy/discussions/new?category=ask-me-anything-ama-and-q-a) at **💬 Ask Me Anything! (AMA and Q&A)** category under my GitHub Profile Repo's Discussions.

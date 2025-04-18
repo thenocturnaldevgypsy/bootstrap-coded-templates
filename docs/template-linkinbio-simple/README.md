@@ -14,7 +14,7 @@
 `Link in Bio - Simple` is a little bit improvement of my other Link in Bio template ([Lite](template-linkinbio-lite.md)) made with Bootstrap and distributed under the MIT License by by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy), this means:
 
 - You can freely modify and reuse.
-- The original [LICENSE](LICENSE.md) must be included with copies of this template.
+- The original [LICENSE](LICENSE) must be included with copies of this template.
 - Please link back (if you can fork, the better) to this repo. 
 
 This template has the following features:
@@ -30,15 +30,15 @@ This template has the following features:
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
 
-- Via GitHub Pages: https://
+- Via GitHub Pages: [https://](https://thenocturnaldevgypsy.github.io/bootstrap-coded-templates/template-linkinbio-simple/)
 - Via Vercel : https://tndg-bsct-linkinbio-simple.vercel.app/
-- Download ZIP: [template-linkinbio-simple.zip](/source%20code/template-linkinbio-simple/template-linkinbio-simple.zip)
+- Download ZIP: [template-linkinbio-simple.zip](/docs/template-linkinbio-simple/template-linkinbio-simple.zip)
 
 ## ![SUBSECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
 
 ```
 project-root/
-├─ source code/ 
+├─ docs/ 
 │    └─ template-linkinbio-simple/
 │         ├─ assets/                            # assets folder for images, css, js and libraries
 │         │    ├─ css/                          # main directory for storing css file
@@ -63,7 +63,7 @@ project-root/
 │         │        ├─ bootstrap-icons-1.11.3/
 │         │        └─ lineicons-5-basic-free/
 │         ├─ template-linkinbio-simple.zip      # zip file of the template
-│         ├─ simple-001.html                    # style 1 of link in bio - simple
+│         ├─ index.html                         # style 1 of link in bio - simple
 │         ├─ simple-002.html                    # style 2 of link in bio - simple
 │         ├─ simple-003.html                    # style 3 of link in bio - simple
 │         ├─ simple-004.html                    # style 4 of link in bio - simple
@@ -93,7 +93,7 @@ Chronological list of updates and changes to the template.
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 2.2.0 | 18.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo from `gypsyshards-bootstrap-template-linkinbio` to `bootstrap-coded-templates`, renamed `Theme 2` to `Link in Bio - Simple`, and moved the source code to `\source code\template-linkinbio-simple` directory under https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/<br>- Created `template-linkinbio-simple.md` to serve as the template's documentation, updated some of the links with the new repo name<br>- Created `\source code\template-linkinbio-simple.html` to record the template to the main template catalog<br>- Added ZIP file for easy template download<br>- Redeployed at Vercel: https://tndg-bsct-linkinbio-simple.vercel.app/ |
+| 2.2.0 | 18.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#14](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/14), [PR#15](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/15) [PR#]() | refactor, build, docs | - Renamed the repo from `gypsyshards-bootstrap-template-linkinbio` to `bootstrap-coded-templates`, renamed `Theme 2` to `Link in Bio - Simple`, and moved the source code to `\source code\template-linkinbio-simple` directory under https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/<br>- Created `template-linkinbio-simple.md` to serve as the template's documentation, updated some of the links with the new repo name<br>- Created `\source code\template-linkinbio-simple.html` to record the template to the main template catalog<br>- Added ZIP file for easy template download<br>- Redeployed at Vercel: https://tndg-bsct-linkinbio-simple.vercel.app/ |
 | 2.1.5 | 12.03.2025 | [I#7](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/7), [PR#8](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/8) | chore, docs. refactor | - Updated the labels and milestones in this repo, reassigned labels to previous and current issues and PRs<br>- Updated MD files dead/404 URLs |
 | 2.1.4 | 27.02.2025 | [I#5](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/5), [PR#6](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/6) | refactor | Transferred repo back to my main GitHub account<br>- Updated FUNDING.yml<br>- Redeployed at Vercel, Live URL: https://gypsyshards.vercel.app/ |
 | 2.1.3 | 20.10.2024 | [I#1](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/1), [PR#2](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/2), [I#3](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/3), [PR#4](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/4) | build, deploy, docs, refactor | - Old GitHub account [@thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy) got flagged for no reason given, recreating the repo to the new account [@thenocturnaldevgypsy-io](https://github.com/thenocturnaldevgypsy-io)<br>- Updated the repo's documentation's URL for some links, but kept the ones from the CHANGELOG<br>- Redeployed at Vercel, Live URL: https://gypsyshards.vercel.app/<br>- For more info for the whole migration, [[tndg] > [tndg-io] Migrate @thenocturnaldevgypsy to @thenocturnaldevgypsy-io](https://github.com/users/thenocturnaldevgypsy/projects/11) |
