@@ -12,12 +12,11 @@ This document contains the complete chronological list of updates and changes to
 
 ![SUBSECTION Live URLs](https://custom-icon-badges.demolab.com/badge/-Live%20URLs-24292e?logo=globe&logoColor=white&labelColor=00416a)
 
-- Via GitHub Pages: https://
-- Via Vercel : https://
+- Via GitHub Pages: https://thenocturnaldevgypsy.github.io/bootstrap-coded-templates/
 
 | Version | Date | Commit/Issue/PR | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 3.0.0 | 18.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/) | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates (https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-personal , https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio) I've made into this repo, changed the directory setup for easy management<br>- Added zip files for each templates for easy downloading<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
+| 3.0.0 | 18.04.2025 | [I#9](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/issues/9), [PR#14](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/14), [PR#15](https://github.com/thenocturnaldevgypsy/bootstrap-coded-templates/pull/15) [PR#]() | refactor, build, docs | - Renamed the repo to `bootstrap-coded-templates`, as the goal is to revamp this repo for storing all the Bootstrap templates I've coded moving forward<br>- Added Docker and Nginx setup/config (Dev Env)<br>- Merged all Bootstrap templates (https://github.com/thenocturnaldevgypsy/nightfall-bootstrap-template-personal , https://github.com/thenocturnaldevgypsy/gypsyshards-bootstrap-template-linkinbio) I've made into this repo, changed the directory setup for easy management<br>- Added zip files for each templates for easy downloading<br>- Updated Labels and enabled discussions in this repo<br>- Updated documentation and contribution guidelines<br>- Deployed at Vercel and GitHub Pages |
 
 ## ![SECTION Changelog under Version 2](https://custom-icon-badges.demolab.com/badge/-Changelog%20under%20Version%202-24292e?logo=flame&logoColor=white&labelColor=00416a)
 
