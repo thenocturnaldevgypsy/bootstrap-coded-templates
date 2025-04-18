@@ -68,7 +68,7 @@ project-root/
 ├─ md_assets/                                 # assets folder for markdown files (repo documentation)
 ├─ nginx/                                     # Nginx configuration directory
 │    └─ default.conf                          # Nginx configurations (DEV Env)
-├─ source code/                               # App's source code
+├─ docs/                                      # App's source code
 │    ├─ assets/                               # assets folder for images, css, js and libraries for index.html
 │    │    ├─ css/                             # main directory for storing css file for index.html
 │    │    ├─ images/                          # main directory for storing image files for index.html
@@ -91,7 +91,7 @@ project-root/
 ```
 Templates are stored separately in their dedicated directories (e.g. `template-linkinbio-lite` , `template-personalsite-detailed`) and it has the following files and directory arrangement. For example:
 ```
-├─ source code/ 
+├─ docs/ 
 │    └─ template-linkinbio-lite/
 │          ├─ assets/                        # assets folder for images, css, js and libraries
 │          │    ├─ css/                      # main directory for storing css file

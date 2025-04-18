@@ -39,7 +39,7 @@ This template has the following features:
 
 ```
 project-root/
-├─ source code/ 
+├─ docs/ 
 │    └─ template-linkinbio-lite/
 │         ├─ assets/                            # assets folder for images, css, js and libraries
 │         │    ├─ css/                          # main directory for storing css file
