@@ -6,7 +6,7 @@
 
 ## ![SUBSECTION Description/Features](https://custom-icon-badges.demolab.com/badge/-Description/Features-24292e?logo=check&logoColor=white&labelColor=00416a)
 
-<img src="md_assets/templates/linkinbio-lite/lite-main.jpg" alt="Link in Bio - Lite">
+<img src="md_assets/lite-main.jpg" alt="Link in Bio - Lite">
 <br><br>
 
 <img src="https://img.shields.io/badge/Template%20Version-2.2.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 2.2.0"> <img src="https://img.shields.io/badge/Template%20Last%20Update-18.04.2025-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update 18.04.2025">
